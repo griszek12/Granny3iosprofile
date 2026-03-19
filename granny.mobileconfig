@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IgnoreManifestScope</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Granny 3</string>
+            <key>PayloadDescription</key>
+            <string>Gra Granny 3 - Fullscreen Web Clip</string>
+            <key>PayloadDisplayName</key>
+            <string>Granny 3</string>
+            <key>PayloadIdentifier</key>
+            <string>com.griszek12.granny3.webclip</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>URL</key>
+            <string>https://griszek12.github.io/Granny3iosprofile/Index.html</string>
+            <key>Precomposed</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Granny 3 Fullscreen Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.griszek12.granny3.profile</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>F1E2D3C4-B5A6-4987-9876-543210FEDCBA</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
